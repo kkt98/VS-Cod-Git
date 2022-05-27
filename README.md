@@ -1,2 +1,3 @@
 # VS-Cod-Git
-VSCod
+비주얼 스튜디오 git
+
